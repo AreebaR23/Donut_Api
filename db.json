@@ -1,157 +1,103 @@
+
 {"Donuts": [
     {
         "id": "0001",
-        "type": "donut",
-        "name": "Cake",
-        "image_urls": {
-            "photo": [
-                {
-                    "id": "3001",
-                    "url": "https://i.pinimg.com/736x/fb/ec/1e/fbec1e34a68e80613404527488c7580d.jpg"
-                },
-                {
-                    "id": "3002",
-                    "url": "https://images.delightedcooking.com/slideshow-mobile-small/chocolate-iced-donuts.jpg"
-                },
-                {
-                    "id": "3003",
-                    "url": "https://assets.website-files.com/5de3d7fa3719a1364ce9960b/61de00ee88417148671305b0_PhotoRoom_20220111_170727.jpg"
-                },
-                {
-                    "id": "3004",
-                    "url": "http://lawsofbaking.com/wp-content/uploads/2013/12/Donut16-1024x681.jpg"
-                },
-                {
-                    "id": "3005",
-                    "url": "https://chocolatecoveredkatie.com/wp-content/uploads/Powdered-Donuts_9AAE/powdered-sugar-doughnuts_thumb.jpg"
-                },
-                {
-                    "id": "3006",
-                    "url": "https://www.kindpng.com/picc/m/27-271839_transparent-glazed-donut-png-dunkin-donuts-nutty-chocolate.png"
-                }
-            ]
-        },
-        "batters": {
-            "batter": [
-                {
-                    "id": "1001",
-                    "type": "Regular"
-                },
-                {
-                    "id": "1002",
-                    "type": "Chocolate"
-                },
-                {
-                    "id": "1003",
-                    "type": "Blueberry"
-                },
-                {
-                    "id": "1004",
-                    "type": "Devil's Food"
-                }
-            ]
-        },
-        "topping": [
-            {
-                "id": "5001",
-                "type": "None"
-            },
-            {
-                "id": "5002",
-                "type": "Glazed"
-            },
-            {
-                "id": "5005",
-                "type": "Sugar"
-            },
-            {
-                "id": "5007",
-                "type": "Powdered Sugar"
-            },
-            {
-                "id": "5006",
-                "type": "Chocolate with Sprinkles"
-            },
-            {
-                "id": "5003",
-                "type": "Chocolate"
-            },
-            {
-                "id": "5004",
-                "type": "Maple"
-            }
-        ]
+        "name": "Donut_1",
+        "image_url": "https://i.pinimg.com/736x/fb/ec/1e/fbec1e34a68e80613404527488c7580d.jpg",
+        "batter": "Regular",
+        "topping": "Glazed",
+        "ppu": 0.55
+
     },
     {
         "id": "0002",
-        "type": "donut",
-        "name": "Raised",
-        "ppu": 0.55,
-        "batters": {
-            "batter": [
-                {
-                    "id": "1001",
-                    "type": "Regular"
-                }
-            ]
-        },
-        "topping": [
-            {
-                "id": "5001",
-                "type": "None"
-            },
-            {
-                "id": "5002",
-                "type": "Glazed"
-            },
-            {
-                "id": "5005",
-                "type": "Sugar"
-            },
-            {
-                "id": "5003",
-                "type": "Chocolate"
-            },
-            {
-                "id": "5004",
-                "type": "Maple"
-            }
-        ]
+        "name": "Donut_2",
+        "image_url": "https://1840farm.com/wp-content/uploads/2020/06/Baked-Chocolate-Glazed-Donuts-500x375.jpg",
+        "batter": "Chocolate",
+        "topping": "Glazed",
+        "ppu": 0.55
+
     },
     {
         "id": "0003",
-        "type": "donut",
-        "name": "Old Fashioned",
-        "ppu": 0.55,
-        "batters": {
-            "batter": [
-                {
-                    "id": "1001",
-                    "type": "Regular"
-                },
-                {
-                    "id": "1002",
-                    "type": "Chocolate"
-                }
-            ]
-        },
-        "topping": [
-            {
-                "id": "5001",
-                "type": "None"
-            },
-            {
-                "id": "5002",
-                "type": "Glazed"
-            },
-            {
-                "id": "5003",
-                "type": "Chocolate"
-            },
-            {
-                "id": "5004",
-                "type": "Maple"
-            }
-        ]
+        "name": "Donut_3",
+        "image_url": "https://www.kimscravings.com/wp-content/uploads/2015/08/DSC7992.jpg",
+        "batter": "Blueberry",
+        "topping": "Glazed",
+        "ppu": 0.55
+
+    },
+    {
+        "id": "0003",
+        "name": "Donut_3",
+        "image_url": "https://www.kimscravings.com/wp-content/uploads/2015/08/DSC7992.jpg",
+        "batter": "Blueberry",
+        "topping": "Glazed",
+        "ppu": 0.55
+
+    },
+    {
+        "id": "0004",
+        "name": "Donut_4",
+        "image_url": "https://www.christinascucina.com/wp-content/uploads/2014/01/IMG_4471.jpg",
+        "batter": "Regular",
+        "topping": "Sugar",
+        "ppu": 0.55
+    },
+    {
+        "id": "0005",
+        "name": "Donut_5",
+        "image_url": "https://assets.epicurious.com/photos/57978bbc3a12dd9d5602400a/1:1/w_2560%2Cc_limit/chocolate-glaze.jpg",
+        "batter": "Regular",
+        "topping": "Chocolate",
+        "ppu": 0.55
+    },
+    {
+        "id": "0006",
+        "name": "Donut_6",
+        "image_url": "https://dashofsanity.com/wp-content/uploads/2014/09/powder-sugar-cake-view-1.jpg",
+        "batter": "Regular",
+        "topping": "Powdered Sugar",
+        "ppu": 0.55
+    },
+    {
+        "id": "0007",
+        "name": "Donut_7",
+        "image_url": "https://thedonutking.com/wp-content/uploads/2020/07/Glazed.jpg",
+        "batter": "Regular",
+        "topping": "Maple",
+        "ppu": 0.55
+    },
+    {
+        "id": "0008",
+        "name": "Donut_8",
+        "image_url": "https://www.meijer.com/content/dam/meijer/product/0004/12/5006/20/0004125006201_1_A1C1_0600.png",
+        "batter": "Regular",
+        "topping": "None",
+        "ppu": 0.55
+    },
+    {
+        "id": "0009",
+        "name": "Donut_9",
+        "image_url": "https://www.noracooks.com/wp-content/uploads/2020/01/IMG_0018.jpg",
+        "batter": "Chocolate",
+        "topping": "None",
+        "ppu": 0.55
+    },
+    {
+        "id": "0010",
+        "name": "Donut_10",
+        "image_url": "https://www.noracooks.com/wp-content/uploads/2020/01/IMG_0018.jpg",
+        "batter": "Blueberry",
+        "topping": "None",
+        "ppu": 0.55
+    },
+    {
+        "id": "0011",
+        "name": "Donut_11",
+        "image_url": "https://www.tablefortwoblog.com/wp-content/uploads/2012/08/chocolate-glazed-donuts-2-433x500.jpg",
+        "batter": "Regular",
+        "topping": "Sprinkles",
+        "ppu": 0.55
     }
 ]}
